@@ -1,0 +1,62 @@
+[
+	{
+		"package": "xaringanthemer",
+		"url": "https://github.com/gadenbuie/xaringanthemer",
+		"branch": "master"
+	},
+	{
+		"package": "metathis",
+		"url": "https://github.com/gadenbuie/metathis",
+		"branch": "main"
+	},
+	{
+		"package": "starwarsdb",
+		"url": "https://github.com/gadenbuie/starwarsdb",
+		"branch": "main"
+	},
+	{
+		"package": "xaringanExtra",
+		"url": "https://github.com/gadenbuie/xaringanExtra",
+		"branch": "master"
+	},
+	{
+		"package": "shrtcts",
+		"url": "https://github.com/gadenbuie/shrtcts",
+		"branch": "main"
+	},
+	{
+		"package": "rsthemes",
+		"url": "https://github.com/gadenbuie/rsthemes",
+		"branch": "main"
+	},
+	{
+		"package": "cleanrmd",
+		"url": "https://github.com/gadenbuie/cleanrmd",
+		"branch": "master"
+	},
+	{
+		"package": "js4shiny",
+		"url": "https://github.com/gadenbuie/js4shiny",
+		"branch": "master"
+	},
+	{
+		"package": "epoxy",
+		"url": "https://github.com/gadenbuie/epoxy",
+		"branch": "master"
+	},
+	{
+		"package": "shinyComponents",
+		"url": "https://github.com/gadenbuie/shinyComponents",
+		"branch": "master"
+	},
+	{
+		"package": "countdown",
+		"url": "https://github.com/gadenbuie/countdown",
+		"branch": "master"
+	},
+	{
+		"package": "regexplain",
+		"url": "https://github.com/gadenbuie/regexplain",
+		"branch": "master"
+	}
+]
