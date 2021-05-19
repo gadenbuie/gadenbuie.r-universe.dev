@@ -50,6 +50,11 @@
 		"branch": "master"
 	},
 	{
+		"package": "ermoji",
+		"url": "https://github.com/gadenbuie/ermoji",
+		"branch": "master"
+	},
+	{
 		"package": "shinyComponents",
 		"url": "https://github.com/gadenbuie/shinyComponents",
 		"branch": "master"
