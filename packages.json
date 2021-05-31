@@ -68,5 +68,10 @@
 		"package": "regexplain",
 		"url": "https://github.com/gadenbuie/regexplain",
 		"branch": "master"
+	},
+	{
+		"package": "tweetrmd",
+		"url": "https://github.com/gadenbuie/tweetrmd",
+		"branch": "main"
 	}
 ]
