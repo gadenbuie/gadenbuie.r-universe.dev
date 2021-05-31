@@ -52,7 +52,7 @@
 	{
 		"package": "ermoji",
 		"url": "https://github.com/gadenbuie/ermoji",
-		"branch": "master"
+		"branch": "main"
 	},
 	{
 		"package": "shinyComponents",
