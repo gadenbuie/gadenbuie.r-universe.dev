@@ -70,6 +70,11 @@
 		"branch": "master"
 	},
 	{
+		"package": "lorem",
+		"url": "https://github.com/gadenbuie/lorem",
+		"branch": "main"
+	},
+	{
 		"package": "tweetrmd",
 		"url": "https://github.com/gadenbuie/tweetrmd",
 		"branch": "main"
