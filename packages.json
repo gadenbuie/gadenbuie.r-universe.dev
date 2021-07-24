@@ -75,6 +75,11 @@
 		"branch": "main"
 	},
 	{
+		"package": "xaringanBuilder",
+		"url": "https://github.com/jhelvy/xaringanBuilder",
+		"branch": "master"
+	},
+	{
 		"package": "tweetrmd",
 		"url": "https://github.com/gadenbuie/tweetrmd",
 		"branch": "main"
