@@ -37,7 +37,7 @@
 	{
 		"package": "cleanrmd",
 		"url": "https://github.com/gadenbuie/cleanrmd",
-		"branch": "master"
+		"branch": "main"
 	},
 	{
 		"package": "js4shiny",
@@ -57,7 +57,7 @@
 	{
 		"package": "shinyComponents",
 		"url": "https://github.com/gadenbuie/shinyComponents",
-		"branch": "master"
+		"branch": "main"
 	},
 	{
 		"package": "countdown",
