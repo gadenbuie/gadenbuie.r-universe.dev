@@ -2,7 +2,7 @@
 	{
 		"package": "xaringanthemer",
 		"url": "https://github.com/gadenbuie/xaringanthemer",
-		"branch": "master"
+		"branch": "main"
 	},
 	{
 		"package": "metathis",
@@ -22,7 +22,7 @@
 	{
 		"package": "xaringanExtra",
 		"url": "https://github.com/gadenbuie/xaringanExtra",
-		"branch": "master"
+		"branch": "main"
 	},
 	{
 		"package": "shrtcts",
@@ -42,12 +42,12 @@
 	{
 		"package": "js4shiny",
 		"url": "https://github.com/gadenbuie/js4shiny",
-		"branch": "master"
+		"branch": "main"
 	},
 	{
 		"package": "epoxy",
 		"url": "https://github.com/gadenbuie/epoxy",
-		"branch": "master"
+		"branch": "main"
 	},
 	{
 		"package": "ermoji",
@@ -62,12 +62,12 @@
 	{
 		"package": "countdown",
 		"url": "https://github.com/gadenbuie/countdown",
-		"branch": "master"
+		"branch": "main"
 	},
 	{
 		"package": "regexplain",
 		"url": "https://github.com/gadenbuie/regexplain",
-		"branch": "master"
+		"branch": "main"
 	},
 	{
 		"package": "lorem",
