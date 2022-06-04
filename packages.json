@@ -75,13 +75,18 @@
 		"branch": "main"
 	},
 	{
-		"package": "xaringanBuilder",
-		"url": "https://github.com/jhelvy/xaringanBuilder",
-		"branch": "master"
+		"package": "renderthis",
+		"url": "https://github.com/jhelvy/renderthis",
+		"branch": "main"
 	},
 	{
 		"package": "tweetrmd",
 		"url": "https://github.com/gadenbuie/tweetrmd",
+		"branch": "main"
+	},
+	{
+		"package": "rsprefs",
+		"url": "https://github.com/gadenbuie/rsprefs",
 		"branch": "main"
 	}
 ]
