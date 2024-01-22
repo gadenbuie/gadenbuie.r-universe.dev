@@ -62,7 +62,8 @@
 	{
 		"package": "countdown",
 		"url": "https://github.com/gadenbuie/countdown",
-		"branch": "main"
+		"branch": "main",
+		"subdir": "r"
 	},
 	{
 		"package": "regexplain",
