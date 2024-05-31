@@ -93,7 +93,7 @@
 	{
 		"package": "collegeScorecard",
 		"url": "https://github.com/gadenbuie/scorecard-db",
-		"branch": "refresh",
+		"branch": "main",
 		"subdir": "pkg"
 	}
 ]
