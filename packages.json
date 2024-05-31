@@ -89,5 +89,11 @@
 		"package": "rsprefs",
 		"url": "https://github.com/gadenbuie/rsprefs",
 		"branch": "main"
+	},
+	{
+		"package": "collegeScorecard",
+		"url": "https://github.com/gadenbuie/scorecard-db",
+		"branch": "refresh",
+		"subdir": "pkg"
 	}
 ]
