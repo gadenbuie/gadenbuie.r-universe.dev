@@ -95,5 +95,10 @@
 		"url": "https://github.com/gadenbuie/scorecard-db",
 		"branch": "main",
 		"subdir": "pkg"
+	},
+	{
+		"package": "btw",
+		"url": "https://github.com/posit-dev/btw",
+		"branch": "main"
 	}
 ]
